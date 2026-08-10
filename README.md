@@ -13,7 +13,7 @@ Este proyecto presenta una solución integral de **Business Intelligence en Powe
 ![Vista Principal](images/dashboard_overview.png)
 
 ### 2. Análisis Cualitativo y Retroalimentación
-![Vista Comentarios](images/dashboard_comments.png)
+![Vista Comentarios](dashboard_comments.PNG)
 
 ---
 
