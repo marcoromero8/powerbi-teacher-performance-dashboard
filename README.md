@@ -10,10 +10,10 @@ Este proyecto presenta una solución integral de **Business Intelligence en Powe
 ## 📸 Vista Previa del Dashboard
 
 ### 1. Control General y Tendencia por Criterios
-![Vista Principal](images/dashboard_overview.png)
+![Vista Principal](images/dashboard_overview.PNG)
 
 ### 2. Análisis Cualitativo y Retroalimentación
-![Vista Comentarios](dashboard_comments.PNG)
+![Vista Comentarios](images/dashboard_comments.PNG)
 
 ---
 
